@@ -1,0 +1,2 @@
+class CaseLine < ApplicationRecord
+end
